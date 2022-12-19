@@ -1,4 +1,4 @@
-package me.carandev.backpackplugin;
+package me.carandev.exampleplugin;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

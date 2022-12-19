@@ -1,5 +1,5 @@
-main: me.carandev.backpackplugin.App
+main: me.carandev.exampleplugin.App
 
-name: BackpackPlugin
+name: ExamplePlugin
 
 version: "0.1"
