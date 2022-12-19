@@ -1,0 +1,5 @@
+main: me.carandev.backpackplugin.App
+
+name: BackpackPlugin
+
+version: "0.1"
